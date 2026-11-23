@@ -1,1 +1,1 @@
-incidentId,animalType,condition,location,animalCount,immediateDanger,specialRequirements,reporterId,reporterContact,submissionTime,priorityScore,priorityLevel,status,assignedTeamId
+incidentId,animalType,condition,location,animalCount,immediateDanger,specialRequirements,reporterName,reporterContact,createdAt,priorityScore,priorityLevel,status,assignedTeamId
