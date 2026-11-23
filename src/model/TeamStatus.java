@@ -1,4 +1,7 @@
 package model;
 
-public class TeamStatus {
+public enum TeamStatus {
+    AVAILABLE,
+    ASSIGNED,
+    UNAVAILABLE
 }
