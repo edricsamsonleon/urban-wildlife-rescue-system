@@ -1,4 +1,7 @@
 package exception;
 
-public class DuplicateIdException {
+public class DuplicateIdException extends RescueSystemException {
+    public DuplicateIdException(String message) {
+        super(message);
+    }
 }
